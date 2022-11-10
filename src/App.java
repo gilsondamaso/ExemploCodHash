@@ -32,7 +32,7 @@ public class App {
         
         //--Comparando Senha User e Admin
 
-        System.out.println(senhahexUser.equals(senhahexAdmin));
+        System.out.println(senhahexUser.equals(senhahexAdmin));//Retorno da Comparação
         
         //-------------- Senha Admin
 
@@ -50,6 +50,6 @@ public class App {
 
         //--Comparando Senha User e Admin
 
-        System.out.println(senhahexAdminNova.equals(senhahexAdmin));
+        System.out.println(senhahexAdminNova.equals(senhahexAdmin));//Retorno da Comparção
     }
 }
